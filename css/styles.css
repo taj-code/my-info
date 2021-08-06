@@ -13,3 +13,17 @@ img {
 button {
   float: right;
 }
+.box {
+  text-align: center;
+}
+.box1 {
+  font-family: cursive;
+  font-size: large;
+  float: left;
+}
+.box2 {
+  font-family: cursive;
+  font-size: large;
+  float: left;
+  padding-left: 10px;
+}
