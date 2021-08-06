@@ -7,6 +7,9 @@ body {
   color: cyan;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.name {
+  text-align: center;
+}
 .text {
   text-align: center;
 }
