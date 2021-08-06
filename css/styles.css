@@ -17,6 +17,7 @@ button {
   text-align: center;
 }
 .box1 {
+  background-color: whitesmoke;
   font-family: cursive;
   font-size: large;
   float: left;
@@ -24,6 +25,9 @@ button {
 .box2 {
   font-family: cursive;
   font-size: large;
-  float: left;
-  padding-left: 10px;
+  margin-top: 10%;
+}
+.box3 {
+  font-family: cursive;
+  font-size: large;
 }
