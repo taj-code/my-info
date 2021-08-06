@@ -10,26 +10,3 @@ body {
 .name {
   text-align: center;
 }
-.text {
-  text-align: center;
-}
-button {
-  float: right;
-}
-.box {
-  text-align: center;
-}
-.box1 {
-  font-family: cursive;
-  font-size: large;
-  float: left;
-}
-.box2 {
-  font-family: cursive;
-  font-size: large;
-  margin-top: 10%;
-}
-.box3 {
-  font-family: cursive;
-  font-size: large;
-}
