@@ -3,9 +3,9 @@ body {
 }
 .intro {
   text-align: center;
-}
-img {
-  border: black;
+  font-size: xx-large;
+  color: cyan;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .text {
   text-align: center;
@@ -17,7 +17,6 @@ button {
   text-align: center;
 }
 .box1 {
-  background-color: whitesmoke;
   font-family: cursive;
   font-size: large;
   float: left;
