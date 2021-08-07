@@ -1,6 +1,9 @@
 body {
   background-color: dimgray;
 }
+.btn {
+  text-align: right;
+}
 .intro {
   text-align: center;
   font-size: xx-large;
@@ -8,5 +11,8 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .name {
+  text-align: center;
+}
+.projects {
   text-align: center;
 }
