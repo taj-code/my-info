@@ -19,7 +19,11 @@ body {
   text-align: center;
 }
 .contact {
+  text-align: right;
   margin-top: 200px;
+  float: right;
+  padding-right: 100px;
+  
 }
 .end {
   text-align: center;
