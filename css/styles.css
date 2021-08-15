@@ -1,6 +1,5 @@
 body {
-  background-color: dimgray;
-}
+  background-color: dimgray;}
 .btn {
   text-align: right;
 }
@@ -13,6 +12,18 @@ body {
 .name {
   text-align: center;
 }
+.sports {
+  text-align: center;
+}
 .projects {
   text-align: center;
+}
+.contact {
+  margin-top: 200px;
+}
+.end {
+  text-align: center;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: cadetblue; 
 }
